@@ -1,5 +1,5 @@
 export { default as DashboardLayout } from "./DashboardLayout";
-export { default as DashboardHome } from "./DashboardHome";
+export { default as DashboardHome } from "./DashboardHome/DashboardHome";
 export { default as Landing } from "./Landing";
 export { default as HomeLayout } from "./HomeLayout";
 export { default as Register } from "./Register";
